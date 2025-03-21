@@ -1,5 +1,5 @@
 # AListinPython
-Repo containing how to make a list in python
 
+nayan_list=[]
+list=[cookies, banana, apple, kurkure, coffee]
 
-More details about the code
