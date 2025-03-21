@@ -1,5 +1,10 @@
 # Write your code here :-)
 #Practise of repo for section B
 
-nayan_list = []
-gouri_list=["g","o","u","r","i"]
+print("hello world")
+//go for lunch
+
+gouri_list=["no"]
+
+
+
