@@ -2,3 +2,5 @@
 #Practise of repo for section B
 
 nayan_list = []
+
+pranati list= []
