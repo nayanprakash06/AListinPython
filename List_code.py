@@ -1,4 +1,6 @@
 # Write your code here :-)
 #Practise of repo for section B
 
-nayan_list = []
+vegetables = []
+vegetables = ["Carrot", "Broccoli", "Spinach", "Tomato", "Cucumber"]
+print(vegetables)
